@@ -1,6 +1,8 @@
 2 player Chess game in python
 
-Required libraries = Pygame -- Install using code == pip install pygame
+Required libraries = Pygame 
+
+Install pygame using code : (pip install pygame)
 
 Run VScode or any programming editor you like for python in same folder/directory, then run file.
 
