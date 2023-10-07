@@ -8,5 +8,4 @@ Run VScode or any programming editor you like for python in same folder/director
 
 Below is the preview of game.
 
-
 ![image](https://github.com/I-am-Skboss/Chess/assets/98142467/d6037f84-c0d8-457f-a737-c55f94f8dbd3)
